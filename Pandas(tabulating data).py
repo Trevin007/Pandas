@@ -4,12 +4,6 @@
 # In[30]:
 
 
-import pandas as pd
-
-record1=pd.Series({"Name":"Trevin",
-                "Year":'21',
-                "School":"St.Josephs College",
-                "University:"University of Colombo"})
 record1
 
 import pandas as pd
@@ -58,13 +52,6 @@ df
 # In[34]:
 
 
-df.head(1)
-
-
-# In[36]:
-
-
-df.head(2)
 
 
 # In[ ]:
